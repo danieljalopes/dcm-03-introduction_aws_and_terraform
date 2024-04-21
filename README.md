@@ -1,7 +1,7 @@
 # Introduction to Amazon Web Services and Terraform
 
 ## Description
-This project is related with article [Introduction to Amazon Web Services and Terraform](https://danieljalopes.hashnode.dev/introduction-to-amazon-web-services-and-terraform) where it is explained how to create infrastructure on Amazon Web Services (AWS) with Terraform.
+This project is related with article [Introduction to Amazon Web Services and Terraform](https://danieljalopes.hashnode.dev/03-introduction-to-amazon-web-services-and-terraform) where it is explained how to create infrastructure on Amazon Web Services (AWS) with Terraform.
 
 The project consists in a Spring application simulating a car sending data to aws, store it in a S3 bucket and create all related logs.
 
